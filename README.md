@@ -186,9 +186,7 @@ target_link_libraries(your_target PRIVATE litehtml)
 
 ## TODO
 
-- [ ] Better border handling
 - [ ] Border radius support for individual corners
-- [ ] Handle different list marker styles
 - [ ] Handle more edge-cases
 
 ## Found the project useful? :smiling_face_with_three_hearts:
