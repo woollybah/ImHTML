@@ -178,11 +178,6 @@ endif()
 target_link_libraries(your_target PRIVATE litehtml)
 ```
 
-## TODO
-
-- [ ] Border radius support for individual corners
-- [ ] Handle more edge-cases
-
 ## Found the project useful? :smiling_face_with_three_hearts:
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A763FPT)
