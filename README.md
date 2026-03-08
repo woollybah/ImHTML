@@ -23,12 +23,6 @@ https://github.com/user-attachments/assets/efc9b341-7f4a-4626-96b8-618c568385d0
 - Clickable links with `:hover` styling support
 - Custom components to insert interactive ImGui widgets into the HTML
 
-### Known Limitations
-
-- `border-radius` per corner is not supported, you can only use `border-radius: Xpx` to set the border radius for all corners
-- `border-radius` on images is not supported
-- `border` for individual sides is a bit wonky. Using full borders like `border: 2px solid red` works the best.
-
 ## Usage
 
 <p align="center">
