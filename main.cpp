@@ -2,7 +2,10 @@
 
 #include <string>
 
-#include "ImHTML/imhtml.hpp"
+// ImHTML
+#include "imhtml.hpp"
+
+// ImGui
 #include "imgui.h"
 #include "imgui_impl_glfw.h"
 #include "imgui_impl_opengl3.h"
@@ -229,7 +232,6 @@ int main(int, char **) {
     )");
       ImGui::End();
 
-
       ImGui::Begin("Advanced borders & stuff");
       ImHTML::Canvas("borders_and_stuff",
                      R"(
@@ -328,7 +330,6 @@ int main(int, char **) {
 </html>
     )");
       ImGui::End();
-
 
       ImGui::Begin("Custom Components");
       ImHTML::Canvas("custom_components",
