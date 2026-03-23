@@ -178,6 +178,12 @@ endif()
 target_link_libraries(your_target PRIVATE litehtml)
 ```
 
+## Projects using ImHTML
+
+- [StdUI](https://github.com/BigJk/StdUI): Experimental language-agnostic lightweight UI engine written in C++
+
+*Are you using ImHTML? Open a PR and add yourself here!* 🚀
+
 ## Found the project useful? :smiling_face_with_three_hearts:
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A763FPT)
